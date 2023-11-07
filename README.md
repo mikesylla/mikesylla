@@ -26,4 +26,42 @@
 </h1>  
 </div>
 
-  
+<div align="center">
+  <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+</div>
+
+---
+
+### :man_technologist: About Me :
+
+I'm a Solidity and Yul developer, and an expert in smart contract optimization and security <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> ...
+
+- :telescope: I’m contributing to Ethereum blockchain projects.
+
+- :seedling: I use JavaScript, Ethers.js, Web3.js, Next.js, ReactJS, and have proficiency in tools like Hardhat, OpenZeppelin, and Alchemy.
+
+- :zap: In my free time, I solve problems on StackOverflow, read tech articles, and create Youtube videos.
+
+- :mailbox: Get in touch with me, here: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" title="Solidity" alt="Solidity" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="Solidity" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React.js" alt="React.js" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="NextJS" alt="NextJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C-Sharp" alt="C#" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C Plus Plus" alt="C++" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" title=".NET" alt="Dot Net" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain-wordmark.svg" title="Visual Studio" alt="Visual Studio" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Visual Code" alt="Visual Code" width="40" height="40"/>&nbsp;
+</div>
+
+---
+
+### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=michaelpsyllakis&theme=dark&background=000000)](https://git.io/streak-stats)
