@@ -24,21 +24,17 @@
   <b>hey there</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> 
 </div>
 
-<div align="center">
-  <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
-</div>
-
 ---
 
 ### :man_technologist: About Me :
 
-I'm a Solidity and Yul developer, and an expert in smart contract optimization and security <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> ...
+I am proficient in Solidity and have compentence in tools like Hardhat, OpenZeppelin, and Alchemy. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> ...
 
-- :telescope: I’m contributing to Ethereum blockchain projects.
+- :telescope: I am learning smart contract auditing and security.
 
-- :seedling: I use JavaScript, Ethers.js, Web3.js, Next.js, ReactJS, and have proficiency in tools like Hardhat, OpenZeppelin, and Alchemy.
+- :seedling: I am also learning JavaScript, Ethers.js, Web.js, React.js, and Next.js.
 
-- :zap: In my free time, I solve problems on StackOverflow, read tech articles, and create Youtube videos.
+- :zap: I have 6 years experience in C# development and have created several successful apps on the Windows Store.
 
 - :mailbox: Get in touch with me, here: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 
