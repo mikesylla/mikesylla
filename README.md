@@ -46,7 +46,7 @@
 
 ###
 
-<p align="left">Coding is the root of all software developmnent</p>
+<blockquote align="left" style="font-size: 48px; font-style: italic;">Coding is the root of all software development</blockquote>
 
 ###
 
