@@ -16,19 +16,15 @@ I am very fascinated by **DeFi development** and **smart contract security**, an
 As for before this, between 2014 and 2022, I developed multiple Windows applications using UWP and C#. In my free time, I continue to modernize these projects by upgrading them to WinUI 3 and UNO.
 
 ## 📌 Pinned Repositories  
-### 🖥️ C# / Windows Projects  
-🔹 [Project 1](#) - Brief description.  
-🔹 [Project 2](#) - Brief description.  
-🔹 [Project 3](#) - Brief description.  
+### 🖥️ C# / Windows Apps  
+🔹 **Teleprompter & Video Editor** (UWP, WinUI 3)  
+🔹 **SpeechToText Pro** (UWP, WinUI 3) 
+
+### 🚀 Web 2.0
 
 ### ⛓️ Solidity Projects  
-🔹 [Project 1](#) - Brief description.  
-🔹 [Project 2](#) - Brief description.  
 
 ### ⚡ Cairo / StarkNet Projects  
-🔹 [Project 1](#) - Brief description.  
-🔹 [Project 2](#) - Brief description.  
-
 ---
 
 ## 🔗 Connect With Me  
