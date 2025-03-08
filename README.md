@@ -1,9 +1,9 @@
 <h1 align="center">👋 Welcome to My GitHub Profile!</h1>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+<p align="center">  
   <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
   <img src="https://img.shields.io/badge/Cairo-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
 </p>
 
 ## 🚀 About Me  
