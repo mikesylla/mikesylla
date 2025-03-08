@@ -7,14 +7,13 @@
 </p>
 
 ## 🚀 About Me  
-Over the past year, I’ve been focused on learning **smart contract development** and **security**. My preparation includes resources like Patrick Collins’ YouTube tutorials, Dapp University, and JohnnyTime’s security bootcamp.
+Over the past couple of years, I’ve been focusing on mastering **smart contract development** and **security**. My learning journey has covered **ERC20s**, **ERC721s**, **Uniswap**, **AAVE**, and **Compound**, along with practical tutorials that involved exploiting and mitigating security vulnerabilities such as **Reentrancy Attacks**, **Flash Loan Attacks**, **Replay Attacks**, **DoS Attacks**, **DAO and Governance Attacks**, **Frontrunning**, **Oracle Manipulation**, and more.
 
-Currently, I’m diving deep into **Starknet and Cairo** to expand my expertise in **blockchain development**.
+Currently, I’m taking a deep dive into **Starknet** and **Cairo** to gain expertise in **Layer 2 blockchain development**.
 
-Between 2014 and 2022, I developed several Windows applications using UWP and C#. In my free time, I upgrade these apps to WinUI 3 and UNO to keep them up to date.
+I am very fascinated by **DeFi development** and **smart contract security**, and my goal is to make valuable contributions in these areas.
 
-My goal is to become a strong contributor in **DeFi development** and **smart contract security**.
----
+As for before this, between 2014 and 2022, I developed multiple Windows applications using UWP and C#. In my free time, I continue to modernize these projects by upgrading them to WinUI 3 and UNO.
 
 ## 📌 Pinned Repositories  
 ### 🖥️ C# / Windows Projects  
