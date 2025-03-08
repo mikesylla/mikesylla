@@ -17,12 +17,12 @@ As for before this, between 2014 and 2022, I developed multiple Windows applicat
 
 ## 📌 Pinned Repositories  
 ### 🖥️ C# / Windows Apps  
-🔹 **Teleprompter & Video Editor** (UWP)
-🔹 **SpeechToText Pro** (UWP)
-🔹 **SpeechToText Pro** (UNO)
-🔹 **SpeechToText Pro** (WinUI 3)
-🔹 **Pinterest Pin Maker** (WinUI 3)
-🔹 **Teleprompter & Video Editor** (WinUI 3)
+- **Teleprompter & Video Editor** (UWP)
+- **SpeechToText Pro** (UWP)
+- **SpeechToText Pro** (UNO)
+- **SpeechToText Pro** (WinUI 3)
+- **Pinterest Pin Maker** (WinUI 3)
+- **Teleprompter & Video Editor** (WinUI 3)
 
 ### 🚀 Web 2.0
 🔹 **Static Blog With Next.js and Markdown**
