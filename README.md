@@ -17,7 +17,7 @@ As for before this, between 2014 and 2022, I developed multiple Windows applicat
 
 ## 📌 Pinned Repositories  
 ### 🖥️ C# / Windows Apps  
-🔹 **Teleprompter & Video Editor** (UWP)  
+🔹 **Teleprompter & Video Editor** (UWP)
 🔹 **SpeechToText Pro** (UWP)
 🔹 **SpeechToText Pro** (UNO)
 🔹 **SpeechToText Pro** (WinUI 3)
